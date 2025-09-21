@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src="Machine Learning.jpg" alt="ML Bootcamp Banner" width="350" height="550">
+      <img src="Tech Evolutio.jpg" alt="ML Bootcamp Banner" width="350" height="550">
     </td>
   </tr>
 </table>
@@ -20,7 +20,7 @@
 
 This repo is a collection of everything I’m learning as part of my **Machine Learning Bootcamp**.  
 It includes:  
-- My practice notebooks 📓  
+- Practice notebooks 📓  
 - Data cleaning and preprocessing exercises 🧹  
 - Visualizations and analysis 📊  
 - Implementations of ML algorithms 🤖  
