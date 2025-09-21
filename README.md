@@ -1,19 +1,19 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h1>📘 ML-Bootcamp</h1>
-        <p>
-          My personal journey of learning <b>Data Science</b> and <b>Machine Learning</b>.  
-          This repository contains notes, exercises, and projects I complete during the bootcamp.
-        </p>
-      </td>
-      <td width="40%">
-        <img src="![download](https://github.com/user-attachments/assets/8bf15664-99bd-480e-af0d-fd841ce55dce)" alt="ML Bootcamp Banner" width="250">
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      <h1>📘 ML-Bootcamp</h1>
+      <p>
+        My personal journey of learning <b>Machine Learning</b>.  
+        This repository contains notes, exercises, and projects I complete during the bootcamp.
+      </p>
+    </td>
+    <td>
+      <img src="Machine Learning.jpg" alt="ML Bootcamp Banner" width="350" height="550">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 📝 About This Repository  
@@ -45,7 +45,7 @@ ML-Bootcamp/
 ```
 ➡️ More folders and topics will be added as the bootcamp progresses.
 
-##🎯 Learning Progress
+## 🎯 Learning Progress
 
 - ✅ Basics of Python libraries (NumPy, Pandas, Matplotlib)
 - ✅ Data Cleaning and Preprocessing
