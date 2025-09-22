@@ -45,7 +45,7 @@ ML-Bootcamp/
 ```
 ➡️ More folders and topics will be added as the bootcamp progresses.
 
-## 🎯 Learning Progress
+## Learning Progress
 
 - Basics of Python libraries (NumPy, Pandas, Matplotlib)
 - Data Cleaning and Preprocessing
