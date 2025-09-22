@@ -24,7 +24,7 @@ It includes:
 - Data cleaning and preprocessing exercises 🧹  
 - Visualizations and analysis 📊  
 - Implementations of ML algorithms 🤖  
-- Mini projects applying concepts to real-world datasets 🚀  
+- Mini projects applying concepts to real-world datasets 
 
 I’ll keep updating this repository as I continue learning new concepts.  
 
@@ -47,12 +47,12 @@ ML-Bootcamp/
 
 ## 🎯 Learning Progress
 
-- ✅ Basics of Python libraries (NumPy, Pandas, Matplotlib)
-- ✅ Data Cleaning and Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Supervised Learning (Regression & Classification)
-- 🚧 Mini Projects
-- 🔜 Future modules (unsupervised learning, feature engineering, model tuning, etc.)
+- Basics of Python libraries (NumPy, Pandas, Matplotlib)
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Supervised Learning (Regression & Classification)
+- Mini Projects
+- Future modules (unsupervised learning, feature engineering, model tuning, etc.)
 
 ## 🛠️ Tools & Libraries
 
@@ -64,7 +64,7 @@ ML-Bootcamp/
 - Scikit-learn
 
 ---
-## 🌱 Closing Thoughts  
+## Closing Thoughts  
 
 This repository is not just a collection of notebooks — it’s a record of my growth in **Machine Learning**.  
 I’ll keep adding new learnings, projects, and experiments as I move forward. 🚀  
